@@ -1,10 +1,5 @@
 #ifndef __SPREADSHEETCELL__
-#include "SpreadSheetCell.h"
 #include <iostream>
-#include "Super.h"
-#include <string>
-#include <cstdio>
-#include <cstdarg>
 #include "matrix.h"
 #endif // !__SPREADSHEETCELL__
 
